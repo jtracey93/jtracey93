@@ -3,17 +3,9 @@
 ### About
 
 -  **Working :**  Microsoft Azure :cloud:
--  **Learning :** K8s :package: | Bicep :muscle:
+-  **Learning :** K8s :package: Bicep :muscle:
 -  **Ask me about :** Anything & everything, always happy to help! :+1:
 -  **Pronouns :** He/Him
-
-### Some Stats & Stuff I've Made
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jtracey93&show_icons=true)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jtracey93&repo=PublicScripts)](https://github.com/jtracey93/PublicScripts)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jtracey93&repo=AzureSubscriptionVendingFunction)](https://github.com/jtracey93/AzureSubscriptionVendingFunction)
 
 ---
 
@@ -45,4 +37,10 @@
 
 <a href="https://open.spotify.com/show/7e8SsrgRTfSq2wGpdjXhJz" target="_"><img src="https://podcast.sussexazure.uk/img/spotify-podcast-badge.png" width="25%"></a>
 
----
+### Some Stats & Stuff I've Made
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jtracey93&show_icons=true)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jtracey93&repo=PublicScripts)](https://github.com/jtracey93/PublicScripts)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jtracey93&repo=AzureSubscriptionVendingFunction)](https://github.com/jtracey93/AzureSubscriptionVendingFunction)
