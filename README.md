@@ -37,6 +37,8 @@
 
 <a href="https://open.spotify.com/show/7e8SsrgRTfSq2wGpdjXhJz" target="_"><img src="https://podcast.sussexazure.uk/img/spotify-podcast-badge.png" width="25%"></a>
 
+---
+
 ### Some Stats & Stuff I've Made
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jtracey93&show_icons=true)
