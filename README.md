@@ -3,7 +3,7 @@
 ### About
 
 -  **Working :**  Microsoft Azure :cloud:
--  **Learning :** K8s :package: Bicep :muscle:
+-  **Learning :** Bicep :muscle:
 -  **Ask me about :** Anything & everything, always happy to help! :+1:
 -  **Pronouns :** He/Him
 
