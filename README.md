@@ -39,10 +39,18 @@
 
 ---
 
-### Some Stats & Stuff I've Made
+### Some Stats & Stuff I've Made/Worked On
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jtracey93&show_icons=true)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=azure&repo=enterprise-scale)](https://github.com/azure/enterprise-scale)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=azure&repo=alz-bicep)](https://github.com/azure/alz-bicep)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=azure&repo=bicep-lz-vending)](https://github.com/azure/bicep-lz-vending)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jtracey93&repo=PublicScripts)](https://github.com/jtracey93/PublicScripts)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jtracey93&repo=AzureSubscriptionVendingFunction)](https://github.com/jtracey93/AzureSubscriptionVendingFunction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jtracey93&repo=blog)](https://github.com/jtracey93/blog)
+
+
